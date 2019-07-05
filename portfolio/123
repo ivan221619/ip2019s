@@ -1,26 +1,26 @@
 function start(e){
     var name = [
         {
-            char: '藍',
-            big5:'C2C5',
-            cns:'1-7731',
+            char: '藍'
+            big5:'C2C5'
+            cns:'1-7731'
             unicode:'85CD'
         },
         {
-            char:'湛',
-            big5:'B4EF',
-            cns:'1-6036',
+            char:'湛'
+            big5:'B4EF'
+            cns:'1-6036'
             unicode:'6E5B'
         },
         {
-            char:'雲',
-            big5:'B6B3',
-            cns:'1-6278',
+            char:'雲'
+            big5:'B6B3'
+            cns:'1-6278'
             unicode:'96F2'
         }       
     ];
 
-    var ele = document.getElementById('div1');
+    var ele = document.getElementById("div1");
 
     for (var i =0;i < 3; i++) {
     ele.innerHTML += name[i].char;
@@ -35,5 +35,3 @@ function start(e){
 
     }
 }
-
-window.addEventListener("load", start, false);
