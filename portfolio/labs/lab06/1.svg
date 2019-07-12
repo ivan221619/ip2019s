@@ -17,7 +17,7 @@
   </circle>
 <circle fill="Lavender" stroke="#f0f" cx="206" cy="87" r="32" opacity="0.2">
     <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="0" />
-  </circle><circle fill="Lavender" stroke="#f0f" cx=298" cy="14" r="16" opacity="0.2">
+  </circle><circle fill="Lavender" stroke="#f0f" cx="298" cy="14" r="16" opacity="0.2">
     <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="0" />
   </circle><circle fill="Lavender" stroke="#f0f" cx="206" cy="114" r="16" opacity="0.2">
     <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="0" />
